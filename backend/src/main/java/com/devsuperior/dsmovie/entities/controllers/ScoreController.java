@@ -1,4 +1,4 @@
-package com.devsuperior.dsmovie.controllers;
+package com.devsuperior.dsmovie.entities.controllers;
 
 import com.devsuperior.dsmovie.dto.MovieDTO;
 import com.devsuperior.dsmovie.dto.ScoreDTO;
